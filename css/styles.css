@@ -1,13 +1,14 @@
 body{
     background-color: #E2C391;
-    color: #251605;
+    color: #91B0E2;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 24px;
+    font-size: 30px;
 }
 
 
 h1{
     font-size: 72px;
+    color: #3F2D11;
 }
 
 .header{
@@ -16,8 +17,12 @@ h1{
 
 .background{
     box-sizing: border-box;
-    background-color: white;
+    background-color: #F2E5CE;
     padding: 20px;
     width: 300px;
     height: auto;
+}
+
+a{
+    color:#91B0E2;
 }
